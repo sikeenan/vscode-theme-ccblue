@@ -1,13 +1,14 @@
 # README
-## This is the README for your extension "ccblue"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+## Version
+0.0.1
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Author
+Simon Keenan <sikeenan@icloud.com> <simon.keenan@computacenter.com>
 
-**Enjoy!**
+## Date
+27th March 2019
+
+## Info
+Colour Brand for VSCODE - not published to VSCODE store.
+

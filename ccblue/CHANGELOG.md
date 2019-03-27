@@ -1,8 +1,6 @@
 # Change Log
 
-All notable changes to the "ccblue" extension will be documented in this file.
-
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+27/03/2019 - SK - ccBlue - based on Computacenter.com brand colours. A nice dark theme for development.
 
 ## [Unreleased]
 
