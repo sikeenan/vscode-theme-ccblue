@@ -1,5 +1,7 @@
 {
     "name": "ccblue",
+    "publisher": "kilo79",
+    "repository": "https://sikeenan71@bitbucket.org/keenanworld/ccblue.git",
     "displayName": "ccblue",
     "description": "ccblue development theme",
     "version": "0.0.1",
