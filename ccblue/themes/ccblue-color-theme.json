@@ -2,7 +2,7 @@
 	"name": "ccblue",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#050e2c",
+		"editor.background": "#09005c",
 		"editor.foreground": "#eeffff",
 		"activityBarBadge.background": "#f12938",
 		"sideBarTitle.foreground": "#eeffff",
