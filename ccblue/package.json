@@ -1,10 +1,10 @@
 {
     "name": "ccblue",
     "publisher": "kilo79",
-    "repository": "https://sikeenan71@bitbucket.org/keenanworld/ccblue.git",
+    "repository": "https://github.com/sikeenan/vscode-theme-ccblue",
     "displayName": "ccblue",
-    "description": "ccblue development theme",
-    "version": "0.0.1",
+    "description": "Computacenter UK Development Theme",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.32.0"
     },

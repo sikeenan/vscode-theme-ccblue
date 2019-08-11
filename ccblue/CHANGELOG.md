@@ -1,7 +1,7 @@
 # Change Log
 
-27/03/2019 - SK - ccBlue - based on Computacenter.com brand colours. A nice dark theme for development.
+7/08/2019 - SK - ccBlue - based on Computacenter.com brand colours. A nice dark theme for development.
 
-## [Unreleased]
+## 7th August 2019
 
-- Initial release
+- Initial release - published.
